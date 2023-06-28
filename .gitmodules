@@ -1,0 +1,6 @@
+[submodule "src/RobotiqHandeROS2Driver"]
+	path = src/RobotiqHandeROS2Driver
+	url = git@github.com:patsyuk03/RobotiqHandeROS2Driver.git
+[submodule "src/ur5_example"]
+	path = src/ur5_example
+	url = git@github.com:patsyuk03/ur5_example.git
